@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conall Curran | My WordPress Blog</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://conallcurran.com/xmlrpc.php">
+
+<link rel="alternate" type="application/rss+xml" title="Conall Curran &raquo; Feed" href="http://conallcurran.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conall Curran &raquo; Comments Feed" href="http://conallcurran.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conall Curran &raquo; Welcome Comments Feed" href="http://conallcurran.com/home-2/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/conallcurran.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ahew_stylesheet-css'  href='http://conallcurran.com/wp-content/plugins/amazing-hover-effects-pro/css/ihover.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ahew_stylesheet_caption-css'  href='http://conallcurran.com/wp-content/plugins/amazing-hover-effects-pro/css/caption.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ahew_responsive-css'  href='http://conallcurran.com/wp-content/plugins/amazing-hover-effects-pro/css/responsive.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://conallcurran.com/wp-content/plugins/onclick-show-popup/css/prettyPhoto.css?ver=4.2.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://conallcurran.com/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.2.51' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_font-awesome-css'  href='http://conallcurran.com/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_mCustomScrollbar-css'  href='http://conallcurran.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.2.51' type='text/css' media='all' />
+<link rel='stylesheet' id='edin-pt-sans-css'  href='//fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='edin-pt-serif-css'  href='//fonts.googleapis.com/css?family=PT+Serif%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='edin-pt-mono-css'  href='//fonts.googleapis.com/css?family=PT+Mono&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='edin-edincon-css'  href='http://conallcurran.com/wp-content/themes/edin/font/edincon.css?ver=20140606' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://conallcurran.com/wp-content/themes/edin/font/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edin-style-css'  href='http://conallcurran.com/wp-content/themes/edin/style.css?ver=4.2.4' type='text/css' media='all' />
+<style id='edin-style-inline-css' type='text/css'>
+.hero.with-featured-image { background-image: url(http://conallcurran.com/wp-content/uploads/2015/05/HarlanWolf1.png); }
+</style>
+<link rel='stylesheet' id='gmw-css'  href='http://conallcurran.com/wp-content/plugins/google-maps-widget/css/gmw.css?ver=2.51' type='text/css' media='all' />
+<link rel='stylesheet' id='bar_styles-css'  href='http://conallcurran.com/wp-content/plugins/skt-skill-bar/skill_bar/bar/sbar.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='circle_styles-css'  href='http://conallcurran.com/wp-content/plugins/skt-skill-bar/skill_bar/circle/jquery.easy-pie-chart.css?ver=4.2.4' type='text/css' media='all' />
+<!--[if lte IE 6]> <style type="text/css">.cantembedplus{display:none;}</style><![endif]--><script type='text/javascript' src='http://conallcurran.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://conallcurran.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://conallcurran.com/wp-content/plugins/onclick-show-popup/js/jquery.prettyPhoto.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://conallcurran.com/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.2.51'></script>
+<script type='text/javascript' src='http://conallcurran.com/wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.2.51'></script>
+<script type='text/javascript' src='http://conallcurran.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.2.51'></script>
+<script type='text/javascript' src='http://conallcurran.com/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://conallcurran.com/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.2.51'></script>
+<script type='text/javascript' src='http://conallcurran.com/wp-content/plugins/skt-skill-bar/skill_bar/bar/jquery.appear.js?ver=4.2.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conallcurran.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conallcurran.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<link rel='canonical' href='http://conallcurran.com/' />
+<link rel='shortlink' href='http://conallcurran.com/' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			color: #1e73be;
+		}
+		</style>
+	</head>
+
+<body class="home page page-id-14 page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php has-header-search navigation-default no-sidebar-full">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		
+				<div class="search-wrapper">
+			<form role="search" method="get" class="search-form" action="http://conallcurran.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>		</div><!-- .search-wrapper -->
+		
+		<div class="header-wrapper clear">
+			<div class="site-branding">
+										<p class="site-title"><a href="http://conallcurran.com/" rel="home">Conall Curran</a></p>
+											<p class="site-description">My WordPress Blog</p>
+								</div><!-- .site-branding -->
+
+							<div id="site-navigation" class="header-navigation">
+					<button class="menu-toggle" aria-expanded="false">Menu</button>
+					<div class="navigation-wrapper clear">
+																			<nav class="primary-navigation" role="navigation">
+								<div class="menu-primary"><ul id="menu-java" class="clear"><li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="http://conallcurran.com/about-me/">About Me</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://conallcurran.com/contact/">Contact</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://conallcurran.com/work-experience/">Work Experience</a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://conallcurran.com/current-projects/">Current Projects</a></li>
+</ul></div>							</nav><!-- .primary-navigation -->
+											</div><!-- .navigation-wrapper -->
+				</div><!-- #site-navigation -->
+			
+							<div id="site-search" class="header-search">
+					<button class="search-toggle" aria-expanded="false"><span class="screen-reader-text">Search</span></button>
+				</div><!-- #site-search -->
+					</div><!-- .header-wrapper -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	
+		
+<div class="hero with-featured-image">
+	
+		<article id="post-14" class="post-14 page type-page status-publish has-post-thumbnail hentry">
+			<header class="entry-header"><h1 class="page-title">Welcome</h1></header>			<div class="entry-content">
+				<p style="text-align: left;">&#8220;Hi and welcome to my online portfolio. Here you will find examples of my work and what skills I have and am currently developing. Having graduated in 2010 with a first class honors degree from the University of Ulster Coleraine in Irish with I.T I later trained as a secondary and primary school teacher. Throughout those years I have worked on and off with different I.T companies completing short term contract work and developing/ maintaining large projects. I am currently adding new skills to my repertoire and I hope to show case these in the near future. This online portfolio is an on-going project of mine and it is being continually updated in accordance to my skill development. I hope you enjoy the visit and consider me as a potential employee as you expand your business.&#8221;</p>
+<p><em>Conall Curran  </em></p>
+							</div><!-- .entry-content -->
+					</article><!-- #post-## -->
+
+	</div><!-- .hero -->
+
+
+	
+	
+
+
+
+	<div id="quinary" class="front-page-widget-area" role="complementary">
+		<div class="front-page-widget-wrapper clear">
+							<div class="front-page-widget">
+					<aside id="linkabletitlehtmlandphpwidget-11" class="widget widget_text"><h2 class="widget-title"><a href="http://conallcurran.com/java" style="text-decoration: underline !important;color: Red;" title="Java">Java</a></h2>        <p>Here you will find some the projects that I have undertaken when studying the Java programming language. I have used this language to program various apps for Android and web applications. I hope to become fully Oracle certified.            </p>
+<p><img src="http://conallcurran.com/wp-content/uploads/2015/05/javalogo.png" /></p>
+        </aside><aside id="linkabletitlehtmlandphpwidget-17" class="widget widget_text"><h2 class="widget-title"><a href="http://conallcurran.com/android/" style="text-decoration: underline !important;" title="Android">Android</a></h2>        <p>In this section I have compiled projects that I completed at university. Some of this technology is no longer in use and has been replaced by different new and exciting applications.</p>
+<p><img src="http://conallcurran.com/wp-content/uploads/2015/06/androidlogo.png" /></p>
+        </aside>				</div><!-- .front-page-widget -->
+			
+							<div class="front-page-widget">
+					<aside id="linkabletitlehtmlandphpwidget-4" class="widget widget_text"><h2 class="widget-title"><a href="http://conallcurran.com/c" style="text-decoration: underline !important;color: Blue;" title="C#">C#</a></h2>        <p>I was first introduced to C# when I worked for IES Ireland. Here we developed mobile applications tailored to the companies needs. I began a C# course in queens University and I've been developing small projects since.</p>
+<p><img src="http://conallcurran.com/wp-content/uploads/2015/05/csharplogo.png" /></p>
+        </aside><aside id="linkabletitlehtmlandphpwidget-19" class="widget widget_text"><h2 class="widget-title"><a href="http://conallcurran.com/javascript-projects/ " style="text-decoration: underline !important;" title="JavaScript">JavaScript</a></h2>        <p>In this section I have compiled projects that I completed at university. Some of this technology is no longer in use and has been replaced by different new and exciting applications.</p>
+<p><img src="http://conallcurran.com/wp-content/uploads/2015/06/Javascriptlogo.png" /></p>
+        </aside>				</div><!-- .front-page-widget -->
+			
+							<div class="front-page-widget">
+					<aside id="linkabletitlehtmlandphpwidget-5" class="widget widget_text"><h2 class="widget-title"><a href="http://conallcurran.com/python/" style="text-decoration: underline !important;color: Green;" title="Python">Python</a></h2>        <p>This very powerful programming language was picked up in my years after I had completed university. As I.T is a very dynamic field learning is a constant factor.<br />
+I have mainly concentrated on games in python.</p>
+<p><img src="http://conallcurran.com/wp-content/uploads/2015/05/pythonlogo.png" /></p>
+        </aside><aside id="linkabletitlehtmlandphpwidget-20" class="widget widget_text"><h2 class="widget-title">Prolog</h2>        <p>In my final year of University I studied Artificial Intelligence and Intelligent systems. We used prolog as our main language. I hope to develop some A.I projects in the near future.</p>
+<p><img src="http://conallcurran.com/wp-content/uploads/2015/06/A.I-logo.png" /></p>
+        </aside>				</div><!-- .front-page-widget -->
+					</div><!-- .front-page-widget-wrapper -->
+	</div><!-- #quinary -->
+
+
+
+
+
+	</div><!-- #content -->
+
+	
+
+	<div id="tertiary" class="footer-widget-area" role="complementary">
+		<div class="footer-widget-wrapper clear">
+							<div class="footer-widget">
+					<aside id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widget-title">Social </h2><div class="menu-social-container"><ul id="menu-social" class="menu"><li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-423"><a href="https://github.com/conallCurran">Git Hub</a></li>
+<li id="menu-item-424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-424"><a href="http://stackexchange.com/users/5465877/conall-curran?tab=top">Stackoverflow</a></li>
+<li id="menu-item-425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-425"><a href="https://plus.google.com/u/0/101649615462774237062/posts">Google +</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-426"><a href="https://uk.linkedin.com/in/conallcurran">LinkedIn</a></li>
+<li id="menu-item-455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-455"><a href="http://www.conallcurran.com/CV.pdf">CV</a></li>
+<li id="menu-item-456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-456"><a href="http://www.conallcurran.com/Resume.pdf">Resume</a></li>
+</ul></div></aside>				</div><!-- .footer-widget -->
+			
+			
+							<div class="footer-widget">
+					<aside id="googlemapswidget-6" class="w
